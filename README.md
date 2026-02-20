@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**raoulanthonylobo-ai/raoulanthonylobo-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Raoul Anthony Lobo** — an aspiring **Data Analyst → Data Scientist** living in **Bengalore, India**   
+Currently pursuing a **Bachelor of Computer Science** at **University of the People** while self-teaching practical data skills.
 
-Here are some ideas to get you started:
+### What I'm building right now
+- 🔭 **Indian Startup Funding EDA** — Analyzed ~$28B in funding rounds (2020–2025) using Google Sheets → [repo](https://github.com/raoulanthonylobo-ai/bengaluru-startup-funding-analysis-2020-2025)
+- 📊 **Superstore Sales Interactive Dashboard** — Multi-page BI dashboard in Looker Studio with geo maps, calculated fields & dynamic filters → [repo](https://github.com/raoulanthonylobo-ai/superstore-sales-dashboard-looker-studio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning / leveling up
+- 🌱 Python (Pandas, Seaborn, basic EDA notebooks)
+- 📈 Looker Studio & modern BI tools
+- 🔍 SQL for querying real datasets
+- Next targets: Colab notebooks + basic SQL practice
+
+### Open to
+- 👯 Collaborations on data viz, EDA, or dashboard projects
+- 🤝 Feedback / roasts on my repos
+- 💼 Entry-level / internship opportunities in data analysis (Bengaluru preferred)
+
+### How to reach me
+- 📫 LinkedIn: [Raoul Anthony Lobo](https://in.linkedin.com/in/raoul-anthony-lobo-b8468680)
+- 💬 Feel free to open an issue on any repo or DM me on LinkedIn
+
+### A bit more about me
+- ⚡ Fun fact: I enjoy travelling, fun food and deep conversations with great people! ☕
+
+Thanks for stopping by! Let's turn data into decisions together!
