@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Raoul Anthony Lobo** — an aspiring **Data Analyst → Data Scientist** living in **Bengalore, India**   
+I'm **Raoul Anthony Lobo**, an aspiring **Data Analyst → Data Scientist** living in **Bengalore, India**   
 Currently pursuing a **Bachelor of Computer Science** at **University of the People** while self-teaching practical data skills.
 
 ### What I'm building right now
