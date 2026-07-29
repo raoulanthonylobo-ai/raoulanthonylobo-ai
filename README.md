@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm **Raoul Anthony Lobo**, an aspiring **Data Analyst → Data Scientist** living in **Bengalore, India**   
-Currently pursuing a **Bachelor of Computer Science** at **University of the People** while self-teaching practical data skills.
+I'm **Raoul Anthony Lobo**, Data Scientist living in **Bengalore, India**   
+**Bachelor of Computer Science** at **University of the People** while working on several practical data skills.
 
 ### What I'm building right now
 - 🔭 **Indian Startup Funding EDA** — Analyzed ~$28B in funding rounds (2020–2025) using Google Sheets → [repo](https://github.com/raoulanthonylobo-ai/bengaluru-startup-funding-analysis-2020-2025)
